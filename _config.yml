@@ -1,0 +1,5 @@
+title: Go To Pray
+description: A free prayer-times app for LG webOS TVs.
+# Data files are published for download, not as pages.
+exclude:
+  - countries

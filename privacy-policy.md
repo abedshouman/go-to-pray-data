@@ -22,11 +22,11 @@ Uninstalling the app removes all of this from your TV.
 
 To calculate prayer times and the Hijri date, the app's background service contacts the **AlAdhan API** (api.aladhan.com) about once a day and whenever you change your location or calculation method. Each request contains only:
 
-- the city, state/province and country you chose,
+- the city and country you chose,
 - the calculation methods you chose, and
 - the date being calculated.
 
-It does not include your name, your account, your TV's identifiers or anything about what you watch. As with any internet request, AlAdhan's servers can see your internet (IP) address; their handling of it is covered by AlAdhan's own terms at https://aladhan.com/credits-and-terms.
+It does not include your name, your account, your TV's identifiers or anything about what you watch. As with any internet request, AlAdhan's servers can see your internet (IP) address; their handling of it is covered by AlAdhan's own terms at <https://aladhan.com/credits-and-terms>.
 
 The app makes no other internet connections.
 
@@ -44,7 +44,7 @@ The app does not collect personal information from anyone, including children.
 
 ## Open data
 
-The list of countries, states and cities shipped with the app comes from the Countries States Cities Database by dr5hn (ODbL 1.0). Our adapted copy is published at https://github.com/abedshouman/go-to-pray-data.
+The list of countries, states and cities shipped with the app comes from the Countries States Cities Database by dr5hn (ODbL 1.0). Our adapted copy is published at <https://github.com/abedshouman/go-to-pray-data>.
 
 ## Changes to this policy
 
@@ -52,4 +52,4 @@ If the app's handling of information changes, this page will be updated and the 
 
 ## Contact
 
-Questions about this policy: shoumanabed@gmail.com
+Questions about this policy: <shoumanabed@gmail.com>
