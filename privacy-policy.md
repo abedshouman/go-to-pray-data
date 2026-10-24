@@ -6,7 +6,7 @@ title: Go To Pray — Privacy Policy
 
 English · [Français](privacy-policy-fr) · [العربية](privacy-policy-ar)
 
-**Effective date:** November 1st, 2026
+**Effective date:** October 24, 2026
 
 Go To Pray is a free prayer-times app for LG webOS TVs, made by AbdulBasset Chouman. This policy explains what information the app uses and where it goes. In short: **the app does not collect, sell or share personal information, and it has no accounts, ads, analytics or tracking.**
 

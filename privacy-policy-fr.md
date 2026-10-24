@@ -7,7 +7,7 @@ lang: fr
 
 [English](privacy-policy) · Français · [العربية](privacy-policy-ar)
 
-**Date d'entrée en vigueur :** 1er novembre 2026
+**Date d'entrée en vigueur :** 24 octobre 2026
 
 Go To Pray est une application gratuite d'horaires de prière pour les téléviseurs LG webOS, créée par AbdulBasset Chouman. Cette politique explique quelles informations l'application utilise et où elles vont. En bref : **l'application ne collecte, ne vend et ne partage aucune information personnelle, et elle n'a ni comptes, ni publicités, ni statistiques d'utilisation, ni suivi.**
 
